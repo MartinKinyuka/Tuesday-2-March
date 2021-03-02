@@ -1,5 +1,5 @@
-#relative{
+.static{
   position: relative;
-  background-color: lime;
-  bottom: 20px;
+  left: 30px;
+  border: 3px solid green;
 }
