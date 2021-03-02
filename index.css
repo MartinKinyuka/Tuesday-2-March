@@ -1,0 +1,7 @@
+div > p > span{
+  color: red;
+}
+div > #parent > p{
+  color: green;
+  font-family: "comic Sans MS";
+}
