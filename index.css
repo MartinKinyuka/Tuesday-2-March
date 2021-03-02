@@ -1,5 +1,12 @@
+div:first-child{
+  background-color: lime;
+  padding: 10px;
+}
 #relative{
-  border: 3px solid red;
+  right: 30px;
   position: relative;
-  left: 20px;
+}
+div:last-child{
+  background-color: lime;
+  padding: 10px;
 }
